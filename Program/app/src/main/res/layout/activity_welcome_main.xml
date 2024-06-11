@@ -12,6 +12,29 @@
         android:layout_height="match_parent"
         android:src="@drawable/bgMenu"
         android:scaleType="centerCrop"/>
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="32dp"
+    android:fontFamily=""
+    android:text="my_lestaurant_laut"
+    android:textStyle="bold"
+    android:textColor="@color/white"
+    android:textSize="33sp"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf=""
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:flow_lastVerticalBias=".4"/>
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="hello_explore_your_dream_food"
+        android:textAlignment="center"
+        android:textColor="#FBFBFB"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBaseline_toBottomOf=""/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

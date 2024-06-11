@@ -1,4 +1,4 @@
-package com.example.projectpm_oasis_Si21cdx_seaeats
+package com.uti.oasis
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge

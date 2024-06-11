@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Project_PM_oasis_Si21CDX_SeaEats"
+rootProject.name = "Oasis"
 include(":app")
+ 

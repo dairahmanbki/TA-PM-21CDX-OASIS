@@ -26,8 +26,8 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="32dp"
             android:hint="Username"
-            android:textColor="@color/white"
-            android:textColorHint="@color/white"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#FFFFFF"
             android:textSize="15dp"
             android:background="@drawable/rounded_comer"
             android:padding="18dp"
@@ -39,8 +39,8 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:hint="Password"
-            android:textColor="@color/white"
-            android:textColorHint="@color/white"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#FFFFFF"
             android:textSize="15dp"
             android:background="@drawable/rounded_comer"
             android:padding="18dp"
@@ -51,7 +51,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Login"
-            android:backgroundTint="@color/white"
+            android:backgroundTint="#FFFFFF"
             android:textColor="#3B84F1"
             android:padding="18dp"
             android:layout_marginTop="32dp"
@@ -64,7 +64,7 @@
             android:layout_height="wrap_content"
             android:text="Sosial Login"
             android:textSize="18dp"
-            android:textColor="@color/white"
+            android:textColor="#FFFFFF"
             android:layout_marginTop="32dp"/>
         <LinearLayout
             android:layout_width="match_parent"
@@ -72,20 +72,23 @@
             android:orientation="horizontal"
             android:layout_marginTop="8dp"
             android:layout_gravity="center">
-            
+
             <ImageView
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:layout_margin="18dp"
-                android:src="@drawable/facebook"
+                android:src="@drawable/facebook"/>
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_margin="18dp"
+                android:src="@drawable/WhatsApp"/>
+
         </LinearLayout>
 
 
 
     </LinearLayout>
-
-
-
 
 
 </RelativeLayout>

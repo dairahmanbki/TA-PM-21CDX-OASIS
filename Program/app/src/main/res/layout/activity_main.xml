@@ -78,7 +78,8 @@
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:layout_margin="18dp"
-                android:src="@drawable/facebook"/>
+                android:src="@drawable/facebook"
+                android:onClick="onFacebookIconClick"/>
             <ImageView
                 android:layout_width="50dp"
                 android:layout_height="50dp"

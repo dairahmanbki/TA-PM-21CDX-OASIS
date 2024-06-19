@@ -83,6 +83,19 @@
                 android:layout_height="50dp"
                 android:layout_margin="18dp"
                 android:src="@drawable/WhatsApp"/>
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_margin="18dp"
+                android:src="@drawable/twitter"/>
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_margin="18dp"
+                android:src="@drawable/Instagram"/>
+
+
+
 
         </LinearLayout>
 

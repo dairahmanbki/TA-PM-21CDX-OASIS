@@ -90,7 +90,8 @@
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:layout_margin="18dp"
-                android:src="@drawable/twitter"/>
+                android:src="@drawable/twitter"
+                android:onClick="onTwitterIconClick"/>
             <ImageView
                 android:layout_width="50dp"
                 android:layout_height="50dp"

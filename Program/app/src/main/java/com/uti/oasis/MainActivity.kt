@@ -33,6 +33,12 @@ class MainActivity : AppCompatActivity() {
         // Anda bisa menambahkan kode lain di sini, seperti melakukan validasi atau berpindah ke Activity lain
     }
 
+    fun onLoginButtonClick(view: View?) {
+        // Lakukan aksi saat tombol login diklik
+        Toast.makeText(this, "Login button clicked", Toast.LENGTH_SHORT).show()
+        // Anda bisa menambahkan kode lain di sini, seperti melakukan validasi atau berpindah ke Activity lain
+    }
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

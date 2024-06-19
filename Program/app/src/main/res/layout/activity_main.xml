@@ -84,7 +84,8 @@
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:layout_margin="18dp"
-                android:src="@drawable/WhatsApp"/>
+                android:src="@drawable/WhatsApp"
+                android:onClick="onWhatsAppIconClick"/>
             <ImageView
                 android:layout_width="50dp"
                 android:layout_height="50dp"

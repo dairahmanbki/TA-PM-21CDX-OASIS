@@ -70,7 +70,7 @@
                         android:id="@+id/imageView3"
                         android:layout_width="match_parent"
                         android:layout_height="133dp"
-                        app:srcCompat="@drawable/bghtl" />
+                        app:srcCompat="@drawable/htl" />
 
                     <Button
                         android:id="@+id/button1"

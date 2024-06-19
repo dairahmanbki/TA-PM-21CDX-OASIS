@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Oasis"
         tools:targetApi="31">
         <activity
+            android:name=".SpotFoto"
+            android:exported="false" />
+        <activity
             android:name=".MenuKuliner"
             android:exported="false" />
         <activity

@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Oasis</string>
+    <string name="app_name">SeaEats</string>
+
+    <string name="text1">
+    Pulau Tegal Mas Lampung menjadi pilihan menyenangkan untuk libur akhir pekan bersama keluarga.
+        Resort ini rutin dikunjungi wisatawan berbagai daerah karna mempunyai spot foto yang bagus.
+    </string>
+
 </resources>
